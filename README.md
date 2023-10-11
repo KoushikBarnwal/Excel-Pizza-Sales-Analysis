@@ -37,4 +37,5 @@ The Analysis is for Pizza Sales for which the desired requirements were checked 
 # Decisions that can be taken based on Insights:
 
 -Add some more variety of Pizzas under Classic Category mostly under large and regular sizes which will be sold only under peak hours(i.e. from 12-01 PM and 4-8 PM) to gather the focus of the customers.
+
 -Give some exciting eye-catching offers on The bottom selling pizzas, it's not only about the taste but to come in front of the eyes is more important(taste is secondary) or change the ingredients of pizzas or remove them or replace them with new ones.
